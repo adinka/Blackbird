@@ -1,0 +1,16 @@
+40		Als Unterstützungslinie
+
+Wenn 9 18 unterschreitet Verkaufsignal
+
+Wenn 9 18 nach oben durchschnitt Kaufsignal
+
+Bollinger Band --> Wenn Kurs unteres Band berührt Trendwechsel Verkaufsignal, 
+				   Bei Auswärtssignal fluktuiert der Kurs zwischen oberes Band und 20 Tage Durchschnitt
+
+
+Ist das Momentum über 0(in unserem Fall über 102,39) und steigt der Kurs --> beschleunigt sich der Aufwärtstrend
+Wenn die Kurfe abflacht kommt die Beschleunigung zum Stillstand --> Kurse steigen langsamer
+Wenn Linie unter 0 fällt --> Kurs Abwärtstrend
+
+RSI(S.244)--> wenn über 70 ist es überkauft --> entweder schlecht oder der Trend kann länger halten
+	--> wenn unter 30 überverkauft
